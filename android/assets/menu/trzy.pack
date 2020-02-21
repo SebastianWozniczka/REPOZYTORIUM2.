@@ -1,0 +1,12 @@
+
+trzy.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+trzy
+  rotate: false
+  xy: 1, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

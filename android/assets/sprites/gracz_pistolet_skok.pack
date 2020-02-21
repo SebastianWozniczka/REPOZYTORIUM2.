@@ -1,0 +1,12 @@
+
+gracz_pistolet_skok.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gracz_pistolet_skok
+  rotate: false
+  xy: 1, 1
+  size: 384, 128
+  orig: 384, 128
+  offset: 0, 0
+  index: -1
